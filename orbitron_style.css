@@ -1,0 +1,7 @@
+
+.orbitron-yourCustomClassName {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Replace 700 with the desired weight (400-900) */
+  font-style: normal;
+}
